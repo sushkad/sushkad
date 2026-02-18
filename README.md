@@ -1,17 +1,3 @@
-
-GitHub Profile Generator
-Create stunning README that impresses recruiters
-
-Auto-detects skills from your repositories
-Create Your Professional GitHub Profile
-Just enter your username — we analyze your repos and create a recruiter-ready profile
-
-sushkad
-Generate
-sushkad
-Sushant Kadam
-@sushkad
-
 SDET - Appium | Python | Mobile Automation
 
 Total Stars
@@ -71,16 +57,8 @@ https://www.linkedin.com/in/sushant-kadam-27190/
 📝 Blog URL
 📰 Medium URL
 💬 Discord Server URL
-https://preview--quality-first-portfolio-forge.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoia2VoZm15d3ZGYmFyVlpPVTM5Q29yYVFWY294MSIsInByb2plY3RfaWQiOiIwMzEyZGY3OS1kYTNmLTQ0MmEtOWRjMS0wMTNhNjdlOGM2NjciLCJub25jZSI6IjY2NGM2NTA5M2FlYjk1NzBmNTE3MTViMWVkNTQxYTViIiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiIwMzEyZGY3OS1kYTNmLTQ0MmEtOWRjMS0wMTNhNjdlOGM2NjciLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY2OTg4MjM5LCJuYmYiOjE3NjYzODM0MzksImlhdCI6MTc2NjM4MzQzOX0.kPPOkDgjYVmpIQ9OwLOh0wLrdOClu7JibhaPOaNc1U0
-sushant.kadam27@gmail.com
-5
-Skills by Category —
-40 selected
-(Auto-detected skills are pre-selected)
-+ All Testing
-+ All Development
-+ All DevOps
-Clear All
+https://preview--quality-first-portfolio-forge.lovable.app/?
+______________________________
 Test Automation
 Select All
 Selenium
