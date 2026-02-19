@@ -415,7 +415,7 @@ Download README.md
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
 | 🎖️ 10+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
+| 💻 Python Expert | ✅ Unlocked |
 
 </div>
 
