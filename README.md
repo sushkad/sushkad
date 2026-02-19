@@ -467,19 +467,3 @@ Download README.md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [sushkad](https://github.com/sushkad) with ❤️**
-
-</div>
-How to use your new profile:
-1
-Download the README.md file using the button above
-2
-Create a new repository named sushkad (same as your username)
-3
-Upload the README.md to that repository
-4
-Your GitHub profile will now display this beautiful README! 🎉
-Create sushkad/sushkad Repository
-View Existing Repository
-Built with ❤️ for the developer community
-
-Auto-detects skills • Impresses recruiters • 100% free
