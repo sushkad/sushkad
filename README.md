@@ -1,1 +1,1 @@
-11 YOE | Engineering Lead | SDET | PYTHON | Playwright | Appium
+Engineering Lead | SDET | PYTHON | Playwright | Appium
