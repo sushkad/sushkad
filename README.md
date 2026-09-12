@@ -1,1 +1,1 @@
-Engineering Lead | SDET | PYTHON | Playwright | Appium
+Engineering Lead
